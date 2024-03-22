@@ -1,7 +1,3 @@
-<div style="margin-leftn: auto;">
-<a href="https://app.daily.dev/lucasfrutig"><img src="https://api.daily.dev/devcards/f639bf705fdc45f5a10e76dc93f0faa8.png?r=p7c" width="400" alt="Lucas Frutig's Dev Card"/></a>
-
-</div>
 
 
 ## 🌐 Socials:
